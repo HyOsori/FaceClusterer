@@ -3,6 +3,8 @@
 
 Cropped_imgs/
 
+shape_predictor_68_face_landmarks.dat
+
 # Created by https://www.gitignore.io/api/vim
 
 ### Vim ###
