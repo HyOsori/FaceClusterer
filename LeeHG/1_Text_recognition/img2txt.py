@@ -29,4 +29,4 @@ def detect_text(path):
 
 
 if __name__ == '__main__':
-    detect_text('jam1.jpg')
+    detect_text('./img/jam1.jpg')
